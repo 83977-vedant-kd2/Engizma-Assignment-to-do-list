@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "assignedTo": "User 1",
+      "status": "Completed",
+      "dueDate": "2024-10-12",
+      "priority": "High",
+      "description": "Complete the project"
+    },
+    {
+      "id": 2,
+      "assignedTo": "User 2",
+      "status": "In Progress",
+      "dueDate": "2024-10-20",
+      "priority": "Normal",
+      "description": "Work on the task management feature"
+    },
+    {
+      "assignedTo": "User 4",
+      "status": "Not Started",
+      "dueDate": "2024-10-25",
+      "priority": "Low",
+      "description": "Start the new feature ASAP and Review",
+      "id": "31e5"
+    },
+    {
+      "id": "74f8",
+      "assignedTo": "User 5",
+      "status": "Not Started",
+      "dueDate": "2024-10-25",
+      "priority": "Low",
+      "description": "Start the new feature v1"
+    },
+    {
+      "id": "c6e9",
+      "assignedTo": "User 7",
+      "status": "In Progress",
+      "dueDate": "2024-10-15",
+      "priority": "Low",
+      "description": "can extend time"
+    }
+  ]
+}
